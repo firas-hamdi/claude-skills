@@ -15,7 +15,7 @@ Each skill is a folder holding one `SKILL.md`. The file starts with a short head
 Clone the repository into the personal skills folder:
 
 ```bash
-git clone git@github.com:YOUR-USER/claude-skills.git ~/.claude/skills
+git clone git@github.com:firas-hamdi/claude-skills.git ~/.claude/skills
 ```
 
 If `~/.claude/skills` already exists, clone somewhere else and copy the skill folders in.
